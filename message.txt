@@ -1,0 +1,7 @@
+Dear $USERNAME,
+
+You are receiving this Email because your Email address, $EMAIL, was discovered on the Russian hacking forum, Lolzteam.
+
+Alongside this Email address was the password, $PASSWORD, if this is still your current password for the account you have been compromised for an unknown amount of time, since at least November of 2018.
+
+You should change your password IMMEDIATELY, even if the password is old you may want to consider how long you have had your current password for; It is recommended to change your passwords about once a year, however, the real important aspect is that you do not reuse passwords across multiple websites.
